@@ -1,0 +1,6 @@
+[submodule "vendor"]
+	path = vendor
+	url = git@github.com:rgnter/libpak.git
+[submodule "vendor/libpak"]
+	path = vendor/libpak
+	url = git@github.com:rgnter/libpak.git
